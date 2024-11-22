@@ -1,4 +1,4 @@
-# Gemini Chatbot
+# INTI BOT  
 
 Este es mi proyecto personal basado en [Next.js](https://nextjs.org/), iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). 
 
