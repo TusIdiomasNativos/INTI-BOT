@@ -1,0 +1,63 @@
+{
+    "Abecedario": {
+      "description": "El abecedario en Quechua.",
+      "content": [
+        {
+          "letter": "A",
+          "audio": "/audio/a.ogg",
+          "translation": "A en Quechua"
+        },
+        {
+          "letter": "B",
+          "audio": "/audio/b.ogg",
+          "translation": "B en Quechua"
+        }
+       
+      ]
+    },
+    "Verbos Tiempo Qhechua": {
+      "description": "Los verbos en diferentes tiempos en Quechua.",
+      "content": [
+        {
+          "verb": "Runasimi",
+          "translation": "Hablar",
+          "present": "Ñuqaqa runasimi kani.",
+          "past": "Ñuqaqa runasimi kikinka.",
+          "future": "Ñuqaqa runasimi kanman."
+        }
+  
+      ]
+    },
+    "Presente Supervivencia Qhechua": {
+      "description": "Frases relacionadas con la supervivencia en Quechua.",
+      "content": [
+        {
+          "phrase": "Ñuqaqa alli kani.",
+          "translation": "Estoy bien."
+        },
+        {
+          "phrase": "Ñuqaqa chiqninmi.",
+          "translation": "Tengo hambre."
+        }
+
+      ]
+    },
+    "Preterito Colores Qhechua": {
+      "description": "Colores en el tiempo pasado en Quechua.",
+      "content": [
+        {
+          "color": "Puka",
+          "translation": "Rojo",
+          "past": "Ñuqaqa puka kanki."
+        },
+        {
+          "color": "Yana",
+          "translation": "Negro",
+          "past": "Ñuqaqa yana kanki."
+        }
+
+      ]
+    }
+
+  }
+  
